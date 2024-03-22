@@ -1,0 +1,4 @@
+edu\eci\arsw\blueprints\test\persistence\impl\InMemoryPersistenceTest.class
+edu\eci\arsw\blueprints\test\persistence\impl\RedundancyFilterTest.class
+edu\eci\arsw\blueprints\test\persistence\impl\SubsamplingFilterTest.class
+edu\eci\arsw\blueprints\test\services\ApplicationServicesTests.class
